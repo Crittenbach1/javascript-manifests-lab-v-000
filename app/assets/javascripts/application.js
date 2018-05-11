@@ -11,6 +11,7 @@
 // about supported directives.
 //
 
+//= require main
 //= require alert_maker
 //= require jquery
 //= require jquery_ujs
